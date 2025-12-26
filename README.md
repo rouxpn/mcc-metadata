@@ -1,1 +1,2 @@
-MasterCatCOin metadat
+MasterCatCoin metadata
+
