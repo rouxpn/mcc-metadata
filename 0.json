@@ -2,5 +2,6 @@
   "name": "MasterCatCoin",
   "symbol": "MCC",
   "description": "MasterCatCoin (MCC) is a community-driven Solana token supporting charity initiatives with transparent liquidity mechanics.",
-  "image": "0.png"
+  "image": "https://raw.githubusercontent.com/rouxpn/mcc-metadata/main/0.png"
 }
+
