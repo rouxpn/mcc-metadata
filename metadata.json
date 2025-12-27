@@ -1,0 +1,9 @@
+{
+  "name": "MasterCatCoin",
+  "symbol": "MCC",
+  "description": "MasterCatCoin (Second Iteration) — a charity-focused meme token.",
+  "image": "https://raw.githubusercontent.com/rouxpn/mcc-metadata/main/0.png",
+  "attributes": [
+    { "trait_type": "Version", "value": "2" }
+  ]
+}
